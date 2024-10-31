@@ -1,0 +1,168 @@
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.exe.config
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.exe
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.pdb
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.AssemblyReference.cache
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.Cliente.resources
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.Properties.Resources.resources
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.GenerateResource.cache
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.exe
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.pdb
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.AreaUsuario.resources
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmLogin.resources
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.exe.config
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Buffers.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Memory.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.ValueTuple.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Buffers.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.ValueTuple.xml
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.CopyComplete
+C:\Users\Brenda\source\repos\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmaddClienteJuridico.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.exe.config
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.exe
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Buffers.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Data.SqlClient.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.AccessControl.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.ValueTuple.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Buffers.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Data.SqlClient.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.ValueTuple.xml
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.SuggestedBindingRedirects.cache
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.exe.config
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.AreaUsuario.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.Properties.Resources.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmLogin.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.GenerateResource.cache
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVe.30B88447.Up2Date
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.exe
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.frmAddCliente.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmCliente.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddUsuario.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmUsuario.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddProduto.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddVenda.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmProduto.resources
+C:\Users\brend\OneDrive\Área de Trabalho\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmVenda.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.exe.config
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.exe
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\GestaoVendas_FazendaUrbana.pdb
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Buffers.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Data.SqlClient.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Numerics.Vectors.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.AccessControl.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.Principal.Windows.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.ValueTuple.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Buffers.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Data.SqlClient.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Numerics.Vectors.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Security.Principal.Windows.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\System.ValueTuple.xml
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.AssemblyReference.cache
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.SuggestedBindingRedirects.cache
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.exe.config
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.AreaUsuario.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.frmAddCliente.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.Properties.Resources.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddProduto.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddUsuario.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddVenda.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmCliente.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmProduto.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmUsuario.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmVenda.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmLogin.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.GenerateResource.cache
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.csproj.CoreCompileInputs.cache
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVe.30B88447.Up2Date
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.exe
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.pdb
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddFornecedor.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmFornecedor.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmClienteFisico.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.ModuloCliente.frmAddClienteFisico.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmClienteJuridico.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\bin\Debug\zu-ZA\GestaoVendas_FazendaUrbana.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmUsuario.zu-ZA.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\zu-ZA\GestaoVendas_FazendaUrbana.resources.dll
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmInsumo.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmEntrega.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.ModuloCliente.frmAddClienteJuridico.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddInsumo.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddPlantacao.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmPlantacao.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmAddColheita.resources
+C:\GestaoVendas_FazendaUrbana\GestaoVendas_FazendaUrbana\obj\Debug\GestaoVendas_FazendaUrbana.UI.frmColheita.resources

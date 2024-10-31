@@ -1,0 +1,828 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GestaoVendas_FazendaUrbana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\vendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\vendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulovenda\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulovenda\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulovenda\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulovenda\\frmvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulovenda\\frmaddvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulovenda\\frmaddvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulovenda\\frmaddvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulovenda\\frmaddvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\bll\\itensvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\bll\\itensvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\itensvendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\itensvendadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\fornecedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\fornecedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\bll\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\bll\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmaddinsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\produtodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\produtodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\colheitadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\colheitadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\bll\\colheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\bll\\colheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmcolheita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frmplantacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frminsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frminsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\plantacaodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\plantacaodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\dal\\insumodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\dal\\insumodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frminsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloinsumo\\frminsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmfornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmfornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmaddfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulofornecedor\\frmaddfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulousuario\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulousuario\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulousuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulousuario\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulousuario\\frmaddusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulousuario\\frmaddusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\modulousuario\\areausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulousuario\\areausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmaddentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\moduloproduto\\frmentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocompra\\frmaddcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocompra\\frmaddcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocliente\\frmclientejuridico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocliente\\frmclientejuridico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocliente\\frmclientefisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocliente\\frmclientefisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocliente\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocliente\\frmcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocliente\\frmaddclientejuridico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocliente\\frmaddclientejuridico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocliente\\frmaddclientefisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocliente\\frmaddclientefisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|c:\\gestaovendas_fazendaurbana\\gestaovendas_fazendaurbana\\ui\\modulocliente\\frmaddcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulocliente\\frmaddcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|C:\\GestaoVendas_FazendaUrbana\\gestaovendas_fazendaurbana\\ui\\modulousuario\\areausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5444BB-5CA1-4AC4-AE2B-C2BBE65C0F21}|GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana.csproj|solutionrelative:gestaovendas_fazendaurbana\\ui\\modulousuario\\areausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVenda.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:29.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddVenda.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:49:26.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVenda.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmVenda.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:23:40.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\ClienteDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\ClienteDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\ClienteDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:42:46.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FornecedorDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\FornecedorDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\FornecedorDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\FornecedorDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\FornecedorDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:10:03.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendaDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\VendaDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\VendaDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\VendaDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\VendaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:28:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddVenda.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloVenda\\frmAddVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:28.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItensVenda.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\BLL\\ItensVenda.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\BLL\\ItensVenda.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\BLL\\ItensVenda.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\BLL\\ItensVenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:43:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "itensVendaDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\itensVendaDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\itensVendaDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\itensVendaDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\itensVendaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:43:41.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\BLL\\Venda.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\BLL\\Venda.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\BLL\\Venda.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\BLL\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:55:26.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmProduto.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:06:06.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAddPlantacao.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:18:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmProduto.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmProduto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:42:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmColheita.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:27:16.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAddColheita.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAIwKUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:16:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddColheita.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddColheita.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:13:13.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAddPlantacao.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddPlantacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:13:11.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAddInsumo.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:39:18.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAddInsumo.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmAddInsumo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:05:32.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProdutoDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\ProdutoDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\ProdutoDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\ProdutoDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\ProdutoDAL.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:09:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmAddProduto.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:06:01.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColheitaDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\ColheitaDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\ColheitaDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\ColheitaDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\ColheitaDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:37:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Colheita.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\BLL\\Colheita.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\BLL\\Colheita.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\BLL\\Colheita.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\BLL\\Colheita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:56:59.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmColheita.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmColheita.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:27:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmPlantacao.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwFgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:00:50.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmPlantacao.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmPlantacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:00:47.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmInsumo.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:12:26.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddProduto.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddProduto.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:39:50.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlantacaoDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\PlantacaoDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\PlantacaoDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\PlantacaoDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\PlantacaoDAL.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:28:14.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmFornecedor.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwE8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:13:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmInsumo.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloInsumo\\frmInsumo.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:25:02.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InsumoDAL.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\InsumoDAL.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\DAL\\InsumoDAL.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\DAL\\InsumoDAL.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\DAL\\InsumoDAL.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:28:48.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmFornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:25:24.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmFornecedor.Designer.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.Designer.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.Designer.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmFornecedor.Designer.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwKYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:13:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmAddFornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmAddFornecedor.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmAddFornecedor.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmAddFornecedor.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloFornecedor\\frmAddFornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:55:43.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\Login.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\Login.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\Login.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:25.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmUsuario.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmUsuario.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmUsuario.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:23.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmAddUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmAddUsuario.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmAddUsuario.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmAddUsuario.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\frmAddUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:08:20.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmAddEntrega.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddEntrega.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddEntrega.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddEntrega.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmAddEntrega.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:05:57.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AreaUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:26:22.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmEntrega.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmEntrega.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmEntrega.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmEntrega.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloProduto\\frmEntrega.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:06:04.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmAddCompra.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCompra\\frmAddCompra.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCompra\\frmAddCompra.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCompra\\frmAddCompra.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCompra\\frmAddCompra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:04:24.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmClienteJuridico.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteJuridico.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteJuridico.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteJuridico.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteJuridico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:56:28.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmClienteFisico.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteFisico.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteFisico.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteFisico.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmClienteFisico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:56:27.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmCliente.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmCliente.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmCliente.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmCliente.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:56:24.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmAddClienteJuridico.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteJuridico.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteJuridico.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteJuridico.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteJuridico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:56:21.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmAddClienteFisico.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteFisico.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteFisico.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteFisico.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddClienteFisico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:56:19.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmAddCliente.cs [Design]",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddCliente.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddCliente.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddCliente.cs [Design]",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloCliente\\frmAddCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:56:15.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AreaUsuario.cs",
+              "DocumentMoniker": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs",
+              "RelativeDocumentMoniker": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs",
+              "ToolTip": "C:\\GestaoVendas_FazendaUrbana\\GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs",
+              "RelativeToolTip": "GestaoVendas_FazendaUrbana\\UI\\ModuloUsuario\\AreaUsuario.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wK8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:26:25.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
